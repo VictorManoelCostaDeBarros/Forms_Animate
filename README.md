@@ -1,7 +1,8 @@
 # Forms_Animate
  Forms animate with vanila JS.
  
-# Notions 
+# Annotations
+
 # Formulário animado com JS puro e CSS Animation
 
 ## Desafios
